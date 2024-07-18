@@ -1,0 +1,6 @@
+min samples,epsilon,clusters num,slhouette score
+20,0.8,87,32.6
+30,0.8,77,33.5
+10,0.6,80,23.5
+5,0.7,115,28.4
+7,0.8,100,30
